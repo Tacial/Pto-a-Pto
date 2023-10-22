@@ -66,8 +66,7 @@ ul#album-fotos li#foto06 { background: url('img06.jpg') no-repeat; }
 
 footer {
     background-color: #999;
-    color: #fff;
-    padding: 5px;
+    color: #fff; padding: 5px;
     font-size: 12px;
     text-align: center;
 }
