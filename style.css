@@ -7,7 +7,7 @@ section { padding: 35px; }
 
 #whats { width: 20px; height: 20px; }
 
-/* Galeria
+/* Galeria  */
 
 ul#album-fotos {
     width: 700px;
@@ -15,7 +15,7 @@ ul#album-fotos {
     padding: 50px;
     overflow: hidden;
     list-style: none;
-}   */
+} 
 
 ul#album-fotos li {
     float: left;
