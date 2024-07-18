@@ -7,7 +7,7 @@ section { padding: 35px; }
 
 #whats { width: 20px; height: 20px; }
 
-/* Galeria */
+/* Galeria
 
 ul#album-fotos {
     width: 700px;
@@ -15,7 +15,7 @@ ul#album-fotos {
     padding: 50px;
     overflow: hidden;
     list-style: none;
-}
+}   */
 
 ul#album-fotos li {
     float: left;
@@ -39,13 +39,9 @@ ul#album-fotos li span {
     padding: 5px;
 }
 
-ul#album-fotos li:hover {
-    -webkit-transform: scale(1.5);
-}
+/* ul#album-fotos li:hover { -webkit-transform: scale(1.5); }  */
 
-ul#album-fotos li:hover span {
-    opacity: 1;
-}
+/* ul#album-fotos li:hover span { opacity: 1; }  */
 
 ul#album-fotos li {
     background-position: 60% 60%;
@@ -53,10 +49,10 @@ ul#album-fotos li {
     background-color: #fff;
 }
  
-ul#album-fotos li:hover {
+/* ul#album-fotos li:hover {
     background-position: 0px 0px;
     background-size: 200px;
-}
+} */
 ul#album-fotos li#foto01 { background: url('img01.jpg') no-repeat; }
 ul#album-fotos li#foto02 { background: url('img02.jpg') no-repeat; }
 ul#album-fotos li#foto03 { background: url('img03.jpg') no-repeat; }
