@@ -8,7 +8,6 @@ section { padding: 35px; }
 #whats { width: 20px; height: 20px; }
 
 /* Galeria  */
-
 ul#album-fotos {
     width: 700px;
     margin: 0 auto;
@@ -39,12 +38,12 @@ ul#album-fotos li span {
     padding: 5px;
 }
 
-/* ul#album-fotos li:hover { -webkit-transform: scale(1.5); }  */
+ul#album-fotos li:hover { -webkit-transform: scale(1.5); }
 
-/* ul#album-fotos li:hover span { opacity: 1; }  */
+ul#album-fotos li:hover span { opacity: 1; } 
 
 ul#album-fotos li {
-    background-position: 60% 60%;
+    background-position: 50% 50%;
     background-size: 400px;
     background-color: #fff;
 }
